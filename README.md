@@ -18,4 +18,4 @@ Contains files for data structure and algorithms all made using Python.
   - Vector
  
 ## Unlicensed
-You can use any part of any code anywhere in any situation, **dont has copyright**.
+The code in this repository is dedicated to the public domain to the extent permitted by law. You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the code, without asking for permission or providing attribution.
